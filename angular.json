@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Cursos"
+    }
+  },
+  "defaultProject": "Cursos",
+  "cli": {
+    "analytics": "7333dc54-f6c2-486d-9a21-ff13b3b95f9c"
+  }
 }
