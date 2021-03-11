@@ -7,6 +7,6 @@ import { Component, Input } from '@angular/core';
 })
 export class ShowCursoComponent{
 
-  @Input() cursos: any[];
+  @Input() curso;
 
 }

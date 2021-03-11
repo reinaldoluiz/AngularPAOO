@@ -1,0 +1,11 @@
+<div class="container">
+
+  <app-curso-cadastro></app-curso-cadastro>
+
+  <div class="row">
+    <div class="col-4" *ngFor="let curso of cursos">
+      <app-show-curso [curso]="cursos"></app-show-curso>
+    </div>
+  </div>
+
+</div>
